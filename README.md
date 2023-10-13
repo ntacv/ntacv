@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with real time communication (rtc)
 - 💬 Ask me about web dev
 - 📫 How to reach me: nta.ckn@gmail.com
-- 😄 Pronouns: Nathan C-137
+- 😄 Pronouns: var, int
 - :fr: From Paris
