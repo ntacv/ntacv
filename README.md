@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Formula Student and an efficiency prototype as manager in VinciEcoDrive
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on a MATE ROV at HydroVinci, named LaVieEnRust
+- 🚘 I've been working on a Formula Student and an efficiency prototype as manager in VinciEcoDrive
+- 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on automated iot
 - 🤔 I’m looking for help with real time communication (rtc)
 - 💬 Ask me about web dev
