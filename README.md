@@ -23,5 +23,6 @@ After recording everything, I imported my life to python to develop custom matpl
 Finally shaping the matrix to a week by week heatmap as the github contribution diagram. 
 Playing with numbers and colors, knowing that each square is meaningfull. 
 
-![life contribution 2024 week view](images/life_green_weeks.png)
-![life contribution 2024 every aspect](images/life_color_weeks.png)
+![life contribution 2024 weeks view](images/life_github_green_weeks.png)
+![life contribution 2024 colors view](images/life_github_color_weeks.png)
+
