@@ -22,3 +22,6 @@ It comes from a Notion database, as it is easy to acces from my pocket and then 
 After recording everything, I imported my life to python to develop custom matplotlib matrixes and color maps. 
 Finally shaping the matrix to a week by week heatmap as the github contribution diagram. 
 Playing with numbers and colors, knowing that each square is meaningfull. 
+
+![life contribution 2024 week view](images/life_green_weeks.png)
+![life contribution 2024 every aspect](images/life_color_weeks.png)
